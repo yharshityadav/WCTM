@@ -1,0 +1,2 @@
+shyam = "sharma"
+print(shyam)
